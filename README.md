@@ -8,9 +8,9 @@ Each project explores a different business question or dataset and includes docu
 
 ## 📁 Featured Project
 
-### 🔹 [MLB Home Run Analysis](./mlb_home_run_analysis)
+### 🔹 [MLB Home Run Analysis](./mlb-home-run-analysis)
 
-**Goal:** Explore historical MLB data to identify which positions consistently produce power hitters, examine debut age and career length trends, and surface player archetypes using long-term home run data.
+**Goal:** Explore historical MLB data to identify which positions consistently produce power hitters, examine debut age and career length trends, and surface player archetypes using long term home run data.
 
 - Dataset: [Lahman Baseball Database (1871–2024)](https://www.seanlahman.com/baseball-archive/statistics/)
 - Tools: `R`, `tidyverse`, `ggplot2`, `cowplot`, `tidytext`
