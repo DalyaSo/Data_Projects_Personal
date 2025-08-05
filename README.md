@@ -8,7 +8,7 @@ Each project explores a different business question or dataset and includes docu
 
 ## 📁 Featured Project
 
-### 🔹 [MLB Home Run Analysis](./MLB_Home_Run_Analysis)
+### 🔹 [MLB Home Run Analysis](./mlb_home_run_analysis)
 
 **Goal:** Explore historical MLB data to identify which positions consistently produce power hitters, examine debut age and career length trends, and surface player archetypes using long-term home run data.
 
