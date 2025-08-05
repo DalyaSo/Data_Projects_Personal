@@ -32,6 +32,39 @@ Histograms, box plots, scatterplots, bar charts, faceted charts, line charts, an
 Created **10+ visualizations** to explore debut trends, power output by position, weighted HR averages, career archetypes, and more.
 
 ---
+## 📊 Featured Visuals
+
+Here are selected visualizations from the analysis that highlight key trends and insights:
+
+### 🔹 Average Home Runs per Season by Position & Decade
+This line chart illustrates how offensive output has evolved by position from the 1870s through the 2020s, showcasing league-wide and role-specific shifts in power.
+![](MLB%20Visuals/avg_hr_position_decade_linechart.png)
+
+---
+
+### 🔹 Power-Hitter Archetypes by Debut Age & Career Length
+This heatmap identifies which player profiles based on debut age and career length tend to deliver the most home runs per year, segmented by position.
+![](MLB%20Visuals/player_archetype_grid.png)
+
+---
+
+### 🔹 Average vs. Weighted Home Runs per Season by Position
+Side-by-side bar charts compare raw and weighted HR averages. The weighted chart emphasizes the influence of long-tenured sluggers, while the raw chart treats all players equally.
+![](MLB%20Visuals/avg_hr_vs_weighted_avg_barcharts.png)
+
+---
+
+### 🔹 HR Distribution by Position (5+ Seasons)
+This boxplot displays the interquartile range, median, and outliers for average HRs per season across positions; revealing which roles show consistent power output.
+![](MLB%20Visuals/avg_hr_by_position_boxplot.png)
+
+---
+
+### 🔹 Top 5 Power Hitters by Position (Min. 5 Seasons)
+A faceted bar chart highlighting the most prolific HR hitters at each position, offering a snapshot of positional ceilings and standouts across eras.
+![](MLB%20Visuals/top_5_hitters_by_position_bar.png)
+
+---
 
 ## 📁 Dataset Info
 
