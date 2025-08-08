@@ -6,7 +6,7 @@ Each project explores a different business question or dataset and includes docu
 
 ---
 
-## 📁 Featured Project
+## 📁 Featured Projects
 
 ### 🔹 [MLB Home Run Analysis](./mlb-home-run-analysis)
 
@@ -21,6 +21,24 @@ Each project explores a different business question or dataset and includes docu
   - Catchers and shortstops still show the lowest HR ceilings
 
 📂 Includes: Source code (`.ipynb`), visuals folder, README, license, and insights.
+
+---
+### 🔹 [Superstore Sales Analysis](./superstore-sales-analysis)
+
+**Goal:** Analyze sales performance across customer segments, categories, and regions using R and Tableau. Evaluate seasonal trends, sales growth, and product-level performance to generate actionable retail insights.
+
+- Dataset: [Superstore Sales Data – Kaggle](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
+- Tools: `R`, `ggplot2`, `cowplot`, `dplyr`, Tableau
+- Visuals: Bar charts, pie charts, line graphs, boxplots
+- Key Takeaways:
+  - Technology drives the highest revenue; Office Supplies has the highest volume
+  - Eastern region shows steady growth; Central region is inconsistent
+  - Seasonal peaks occur in March, September, and November
+  - Consumers drive volume but have the lowest average sale
+
+📂 Includes: Jupyter Notebook (`.ipynb`), Tableau dashboard, visuals folder, README
+
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/SuperstoreSalesMonitor/Dashboard1)
 
 ---
 
@@ -42,6 +60,6 @@ Stay tuned for more
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/dalyasohl/)
 - 📊 [Kaggle](https://www.kaggle.com/dalyas)
-- 📧 dalyasohl@gmail.com *(feel free to reach out)*
+- 📧 dalyasohl@gmail.com 
 
 ---
