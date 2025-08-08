@@ -24,11 +24,27 @@ This project analyzes sales performance and customer behavior using a dataset fr
 
 ## 📸 Visuals (Coming Soon)
 
-Sample charts from the notebook and Tableau dashboard will be added here.
+### 1. Distribution of Daily Sales
+![Distribution of Sales](superstore-analysis-visuals/sales_distribution.png)
+### 2. Total Sales vs. Total Orders by Category
+![Sales vs Orders](superstore-analysis-visuals/sales_vs_orders_by_category.png)
 
-<!-- Example: -->
-<!-- ![Sales by Region](images/sales_by_region.png) -->
-<!-- ![Discount vs Profit](images/discount_vs_profit.png) -->
+### 3. Regional & State-Level Insights
+**Mean Sales by Region:**  
+![Regional Sales Bar](superstore-analysis-visuals/regional_sales_bar.png)
+
+**Top 10 States by Total Sales:**  
+![Top States Bar](superstore-analysis-visuals/top_states_bar.png)
+
+### 4. Segment Analysis
+**Order Volume by Segment (Pie Chart):**  
+![Segment Sales Pie](superstore-analysis-visuals/segment_sales_pie.png)
+
+**Average Sale Value by Segment:**  
+![Segment Sales Bar](superstore-analysis-visuals/segment_sales_bar.png)
+
+### 5. Monthly Sales Trends Over Time
+![Monthly Sales Trends](superstore-analysis-visuals/monthly_sales_trends.png)
 
 ---
 
